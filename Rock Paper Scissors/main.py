@@ -17,4 +17,5 @@ def is_win(p, c):
         return 1
     return 0
 
-print(play())
+if __name__ == "__main__":
+    print(play())

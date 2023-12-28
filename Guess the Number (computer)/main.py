@@ -1,4 +1,5 @@
 import random
+
 def computer_guess(x):
     low = 1
     high = x
@@ -15,4 +16,5 @@ def computer_guess(x):
 
     print (f"The computer guessed your number, it is {guess}")
 
-computer_guess(1000)
+if __name__ == "__main__":
+    computer_guess(1000)

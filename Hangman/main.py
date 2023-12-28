@@ -44,4 +44,5 @@ def hangman():
         print('YAY! You guessed the word', word, '!!')
 
 
-hangman()
+if __name__ == "__main__":
+    hangman()

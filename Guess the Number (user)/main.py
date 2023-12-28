@@ -12,4 +12,5 @@ def user_guess(x):
 
     print (f"Congrats. You have have guess the number {random_number}")
 
-user_guess(10)
+if __name__ == "__main__":
+    user_guess(10)
