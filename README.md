@@ -3,9 +3,10 @@
 
 After seeing different options on the internet to improve my programming with Python. 
 
-I have chosen to do this course on YouTube where 12 programs are made for beginners in which the difficulty is increasing. 
+I have chosen to do this course on YouTube where 10 programs are made for beginners in which the difficulty is increasing. 
 
 You can follow the tutorial in this link, where the girl explains everything correctly:
 
 https://www.youtube.com/watch?v=8ext9G7xspg&t=4828s
 
+There are 12 programs, but I don`t like so much the last two. 
