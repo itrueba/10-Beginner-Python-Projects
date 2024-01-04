@@ -1,4 +1,4 @@
-# 12-Beginner-Python-Projects-Coding-Course
+# 10-Beginner-Python-Projects-Coding-Course
 ## Second practice with Python
 
 After seeing different options on the internet to improve my programming with Python. 
