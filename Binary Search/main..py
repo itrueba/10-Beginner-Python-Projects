@@ -1,8 +1,3 @@
-# Vamos a comparar dos algoritmos de busqueda.
-# Dentro de una lista ordenada vamos a buscar un numero. 
-
-# Navie_search: Recorreremos todo el listado hasta encontrar el numero deseado.
-# Binary_search: Dividimos la lista en dos para reducir el tiempo de busqueda.
 
 import time
 import random
@@ -25,7 +20,6 @@ def binary_search(lista, objetivo, min = None, max = None):
         return binary_search(lista, objetivo, mid+1, max)
     else:
         return binary_search(lista, objetivo, min, mid-1)
-    return -1
 
 if __name__ == "__main__":
     lista = range(100000)

@@ -131,7 +131,7 @@ def play(dim_size = 10, num_bombs = 10):
 
     # Paso 3a: Si la casilla contiene una bomba, el juego termina
     
-    # Paso 3b: So la casilla no es una bomba, hacer recursividad hasta que este pegado a una
+    # Paso 3b: Si la casilla no es una bomba, hacer recursividad hasta que este pegado a una
 
     # Paso 4: Repetir los pasos 2 - 3a - 3b hasta que no queden bombas. El jugador ha ganado
 
